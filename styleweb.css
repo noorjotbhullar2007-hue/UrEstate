@@ -16,7 +16,7 @@
 	background-size: cover;
 	color: blue;
 	padding-left: 20px;
-	padding-right: 600px;
+	padding-right: 6px;
 }
 .a3{
 	background-color:blue;
@@ -37,7 +37,7 @@
 	font-weight: bold;
 }
 .parahome{
-	padding-right: 600px;
+	padding-right: 6px;
 }
 .urestate{
 	font-size: 60px;
@@ -49,4 +49,5 @@
 .center{
 	text-align: center;
 	
+
 }
